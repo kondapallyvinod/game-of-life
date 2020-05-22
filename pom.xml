@@ -164,7 +164,6 @@
                         </storyReport>
                     </configuration>
                 </plugin>
-
             </plugins>
         </pluginManagement>
         <extensions>
